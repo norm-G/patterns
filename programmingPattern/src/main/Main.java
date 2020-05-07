@@ -7,6 +7,7 @@ import programmingPattern.erzeugermuster.simpleFactory.SimpleFactory;
 import programmingPattern.erzeugermuster.singleton.Singelton;
 import programmingPattern.verhaltensmuster.strategie.Strategie;
 import programmingPattern.otherStuff.staticBsp.StaticBsp;
+import programmingPattern.strukturmuster.adapter.Adapter;
 
 
 public class Main {
@@ -16,6 +17,7 @@ public class Main {
 		
 		//bei true wird das Beispiel ausgeführt
 		boolean erzeuger = true;
+		boolean struktur = true;
 		boolean verhalten = true;
 		boolean andere = false;
 		
@@ -30,9 +32,13 @@ public class Main {
 		
 		Prototype.go(erzeuger);
 		
+		//### Struktur ###
+		Adapter.go(struktur);
+		// TODO
+		
 		//### Verhalten ###
 		Strategie.go(verhalten);
-		
+		// TODO
 		
 		//### Andere ###
 		StaticBsp.go(andere);
