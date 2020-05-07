@@ -19,7 +19,7 @@ package programmingPattern.erzeugermuster.simpleFactory;
  * Beispiel:
  * Eine Schuhfabrik erzeugt entweder Turnschuh oder Wanderschuh
  * </pre>  
- * @author Norm
+ * @author norm-G
  */
 public class SimpleFactory {
 	

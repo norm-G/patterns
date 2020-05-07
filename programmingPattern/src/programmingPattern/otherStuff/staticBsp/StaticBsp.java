@@ -8,7 +8,7 @@ package programmingPattern.otherStuff.staticBsp;
  * Beispiel:
  * Navi hat ein Static-Feld Version
  * </pre>  
- * @author Norm
+ * @author norm-G
  */
 public class StaticBsp {
 	public static void go(boolean start) {

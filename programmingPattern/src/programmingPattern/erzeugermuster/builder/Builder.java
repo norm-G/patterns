@@ -17,7 +17,7 @@ package programmingPattern.erzeugermuster.builder;
  * Ein Computer benoetigten(hdd,ram) 
  * und optionalen(grafik,bluetooth) Feldern
  * </pre>  
- * @author Norm
+ * @author norm-G
  */
 public class Builder {
 	public static void go(boolean start) {

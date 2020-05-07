@@ -16,7 +16,7 @@ package programmingPattern.verhaltensmuster.strategie;
  * Beispiel:
  * Durch das interface Fliegt und flugtyp wird die Tierklasse erweitert 
  * </pre>  
- * @author Norm
+ * @author norm-G
  */
 public class Strategie {
 	

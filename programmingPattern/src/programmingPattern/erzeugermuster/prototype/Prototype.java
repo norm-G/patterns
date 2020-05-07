@@ -15,7 +15,7 @@ package programmingPattern.erzeugermuster.prototype;
  * Beispiel:
  * 
  * </pre>  
- * @author Norm
+ * @author norm-G
  */
 public class Prototype {
 	

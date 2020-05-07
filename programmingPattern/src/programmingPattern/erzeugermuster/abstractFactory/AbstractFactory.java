@@ -19,7 +19,7 @@ package programmingPattern.erzeugermuster.abstractFactory;
  * Beispiel:
  * Erweitert Schuhfabrik um zwei abstrakte Hersteller Adidas, Puma
  * </pre>  
- * @author Norm
+ * @author norm-G
  */
 public class AbstractFactory {
 	/**Abstract Factory

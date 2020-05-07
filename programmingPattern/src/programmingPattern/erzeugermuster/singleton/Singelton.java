@@ -24,7 +24,7 @@ package programmingPattern.erzeugermuster.singleton;
  * Beispiel:
  * Es kann nur einen Koenig geben (lazy)
  * </pre>  
- * @author Norm
+ * @author norm-G
  */
 public class Singelton {
 	
